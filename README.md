@@ -21,7 +21,7 @@ git clone https://github.com/manthan89-py/AI-Blog-Writter.git
 # Main Credits and Video Tutorial ❤️:
 * Youtube : https://www.youtube.com/watch?v=cHymMt1SQn8
 * Github : https://github.com/nicknochnack
-* Thank you very much Nicholas Renotte Sir🤝❤️.
+* Thank you very much **Nicholas Renotte** Sir🤝❤️.
 
 
 # Final Note⭐:
