@@ -8,7 +8,7 @@
 
 # Requirements & Helful Documentation⭐:
 
-* NLP basics : https://towardsdatascience.com/introduction-to-natural-language-processing-for-text-df845750fb63?gi=23f58ce00af8#:~:text=NLP%20is%20a%20subfield%20of,algorithms%20to%20text%20and%20speech.
+* NLP basics : https://www.analyticsvidhya.com/blog/2021/02/basics-of-natural-language-processing-nlp-basics/
 * Hugging Face Transformers : https://huggingface.co/
 * GPT-2 Model : https://openai.com/blog/gpt-2-1-5b-release/
 
